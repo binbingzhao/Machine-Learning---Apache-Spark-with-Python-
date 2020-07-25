@@ -10,7 +10,7 @@
 - sc = SparkContext()
 `spark = SparkSession(sc)`
 
-from pyspark.ml.feature import VectorAssembler
+"from pyspark.ml.feature import VectorAssembler"
 from pyspark.ml.regression import LinearRegression
 from pyspark.ml.evaluation import RegressionEvaluator
 import matplotlib.pyplot as plt

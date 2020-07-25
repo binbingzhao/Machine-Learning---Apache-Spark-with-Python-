@@ -1,8 +1,8 @@
 # Machine_Learning-Apache_Spark_with_Python
 ## PySpark | Linear Regression &amp; Decision Tree
 
-- Building LR and DT Models and with PySpark and MLlib
-- Linear Regression Ploting
+- Building LR and DT Models with PySpark and MLlib
+- Linear Regression Plotting
 
 # Packages used:
 - from pyspark import SparkConf, SparkContext
